@@ -1,5 +1,5 @@
 # Notes-App-in-kotlin
-USED:Fragments, Room, MVVM
+USED:Fragments, Room, MVVM, RecyclerView
 
 
 <img src="https://user-images.githubusercontent.com/111049118/193455273-caf3c468-6ff4-4eed-a379-71fcb7efb77c.png" width=25% height=25%>
